@@ -86,7 +86,7 @@ export const films: Film[] = [
     role: "Creator",
     description:
       "A first-of-its-kind runway where wearable technology meets couture — the marquee event that fuses Exhibit's two loves, gadgets and glamour, under the spotlight.",
-    poster: null,
+    poster: "/photos/ex-tour.jpg",
     tag: "Runway ✨",
     trailerId: null,
     watchUrl: "https://www.techfashiontour.com/",
@@ -97,7 +97,7 @@ export const films: Film[] = [
     role: "The Production Arm",
     description:
       "The studio engine — video, reviews and branded content that carries the Exhibit voice across every screen, from unboxings to full productions.",
-    poster: null,
+    poster: "/photos/ex-studios.jpg",
     tag: "Studios 🎬",
     trailerId: null,
     watchUrl: "https://www.instagram.com/exhibit_studios/",
@@ -108,7 +108,7 @@ export const films: Film[] = [
     role: "The Social Network",
     description:
       "The influencer and social vertical — connecting brands with creators, and turning the magazine's reach into a living, scrolling community.",
-    poster: null,
+    poster: "/photos/ex-social.jpg",
     tag: "Social 📱",
     trailerId: null,
     watchUrl: "https://www.exhibit.social/",

@@ -143,7 +143,7 @@ export default function Filmography() {
                         rel="noopener noreferrer"
                         className="rounded-full border border-white/15 px-4 py-2 text-xs tracking-wide text-white/70 transition-colors hover:border-gold hover:text-gold"
                       >
-                        YouTube ↗
+                        {/youtu\.?be/.test(film.watchUrl) ? 'YouTube' : 'Visit'} ↗
                       </a>
                     )}
                   </div>
